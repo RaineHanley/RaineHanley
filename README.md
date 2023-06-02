@@ -4,7 +4,8 @@ Hello All!
 Fullstack Software Developer
 ----------------------------
 
-I'm Raine (they/them) #Vegan #Activst #Queer I am a fullstack Software Developer looking to collaborate, network, and create with others. I have worked in the field of Human Development for 12 years and recently made the switch to Software Development because I was ready for a new challenge. I realized that there was not a lot of room for me to grow or create in my previous field so, I came to the tech side and feel so much more fulfilled. I have my Bachelors of Science from the University of Nevada, Reno. Go Pack! During my studies, I was a part of an on campus group called NRAP(Nevada's Recovery and Prevention Community), had a group project selected to be a peer reviewed journal, and was always on the Dean's List.
+I'm Raine (they/them) #Vegan #Activst #Queer I am a fullstack Software Developer looking to collaborate, network, and create with others. I have my Bachelors of Science from the University of Nevada, Reno. Go Pack! During my studies, I was a part of an on campus group called NRAP(Nevada's Recovery and Prevention Community), had a group project selected to be a peer reviewed journal, and was always on the Dean's List.
+
 
 * 🌍  I'm based in Portland
 * ✉️  You can contact me at [rainehanley@gmail.com](mailto:rainehanley@gmail.com)
